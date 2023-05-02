@@ -1,0 +1,31 @@
+
+body {
+    background-color: black;
+}
+.bandera {
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    border: 1px solid beige;
+    margin-top: 20px;
+}
+.celeste {
+    background-color: #2D82D9;
+    height: 66.6px;
+}
+.blanco {
+    background-color: white;
+    height: 66.6px;
+}
+.negro {
+    background-color: black;
+    height: 66.6px;
+}
+.amarillo {
+    background-color: yellow;
+    height: 66.6px;
+}
+.rojo {
+    background-color: red;
+    height: 66.6px;
+}

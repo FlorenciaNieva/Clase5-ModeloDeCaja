@@ -1,0 +1,39 @@
+.barra {
+    background-color: #eaeaea;
+    height: 30px;
+    width: 500px;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 3px;
+}
+.barra-verde-1 {
+    background-color: #4caf50;
+    height: 30px;
+    width: 50px;
+    border-radius: 15px;
+}
+.barra-verde-2 {
+    background-color: #4caf50;
+    height: 30px;
+    width: 125px;
+    border-radius: 15px;
+}
+.barra-verde-3 {
+    background-color: #4caf50;
+    height: 30px;
+    width: 250px;
+    border-radius: 15px;
+}
+.barra-verde-4 {
+    background-color: #4caf50;
+    height: 30px;
+    width: 375px;
+    border-radius: 15px;
+}
+.barra-verde-5 {
+    background-color: #4caf50;
+    height: 30px;
+    width: 460px;
+    border-radius: 15px;
+}
+
